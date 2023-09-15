@@ -6,11 +6,11 @@ main ()
 {
                         cout<<"BIODATA"<<endl;
 
-    cout <<"NIK              : 3321090106040001" <<endl ;
+    cout <<"NIK              : 332109010604111" <<endl ;
 
-    cout <<"Nama             : MUHAMMAD ZA'IM MUZAKKI" <<endl;
+    cout <<"Nama             : MUHAMMAD ZAIM MUZAKKI" <<endl;
 
-    cout <<"Tempat/Tgl Lahir : DEMAK , 01 JUNI 2004" <<endl;
+    cout <<"Tempat/Tgl Lahir : DEMAK , 01 JUNI 2069" <<endl;
 
     cout <<"Jenis Kelamin    : Laki-laki" <<endl;
 
