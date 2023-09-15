@@ -1,5 +1,5 @@
 // judul : latihan looping do while deret angka
-// author : ifan rizqa 2 okt 2022
+// author : Zaim Muzakki 
 // do while deret angka
 
 // kamus
